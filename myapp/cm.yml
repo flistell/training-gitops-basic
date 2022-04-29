@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: html-cm
+data:
+  index.html: |
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Eget gravida cum sociis natoque penatibus et. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Quis vel eros donec ac odio tempor orci dapibus. Pharetra convallis posuere morbi leo. Tortor consequat id porta nibh venenatis cras sed felis eget. Risus pretium quam vulputate dignissim. Eu scelerisque felis imperdiet proin. Consectetur adipiscing elit pellentesque habitant morbi tristique. Arcu ac tortor dignissim convallis aenean et tortor at. Duis at tellus at urna. Imperdiet nulla malesuada pellentesque elit eget gravida. Integer quis auctor elit sed vulputate mi sit. Maecenas volutpat blandit aliquam etiam erat velit scelerisque. Mattis enim ut tellus elementum sagittis vitae et. Sed pulvinar proin gravida hendrerit lectus. Massa sapien faucibus et molestie ac. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla.</p>
+<p>
+Gravida quis blandit turpis cursus in hac. Tincidunt arcu non sodales neque sodales ut etiam. Netus et malesuada fames ac turpis egestas integer eget. Donec pretium vulputate sapien nec sagittis. Aliquam vestibulum morbi blandit cursus. Viverra adipiscing at in tellus integer feugiat scelerisque. Arcu cursus vitae congue mauris rhoncus. Sit amet commodo nulla facilisi nullam vehicula ipsum a arcu. Malesuada pellentesque elit eget gravida cum sociis natoque. Feugiat pretium nibh ipsum consequat. Amet consectetur adipiscing elit ut. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper.
+</p>
